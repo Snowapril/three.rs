@@ -1,0 +1,15 @@
+[package]
+name = "three_rs"
+version = "0.1.0"
+edition = "2018"
+authors = ["Snowapril <sinjihng@gmail.com>"]
+description = "Rust-based three.js implementation using wasm + webgpu"
+license = "MIT"
+repository = "https://github.com/Snowapril/three.rs"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+wasm-bindgen = "0.2.78"
