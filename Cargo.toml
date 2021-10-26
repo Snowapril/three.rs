@@ -1,7 +1,7 @@
 [package]
 name = "three_rs"
 version = "0.1.0"
-edition = "2018"
+edition = "2021"
 authors = ["Snowapril <sinjihng@gmail.com>"]
 description = "Rust-based three.js implementation using wasm + webgpu"
 license = "MIT"
