@@ -1,5 +1,5 @@
 on: push
-name: "Run CI on Pushes"
+name: "CI"
 
 jobs:
   rust_tests:
