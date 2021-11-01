@@ -47,8 +47,8 @@ jobs:
         run: |
           export PATH=$PATH:`pwd`/../geckodriver
           npm install
-          npm run test
-        working-directory: ./site
+          npm run unit
+        working-directory: ./tests
 
   clippy_check:
     name: "Run Clippy Check"
