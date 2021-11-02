@@ -1,5 +1,7 @@
 use wasm_bindgen::prelude::*;
 
+pub mod math;
+
 #[wasm_bindgen]
 extern "C" {
     pub fn alert(s: &str);
