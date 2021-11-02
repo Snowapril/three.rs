@@ -26,3 +26,7 @@ version = "0.3"
 features = [
   "console",
 ]
+
+[dependencies.num-traits]
+version = "0.2"
+default-features = false
