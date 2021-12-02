@@ -3,7 +3,7 @@ name = "three_rs"
 version = "0.1.0"
 edition = "2021"
 authors = ["Snowapril <sinjihng@gmail.com>"]
-description = "Rust-based three.js implementation using wasm + webgpu"
+description = "Rust-based 3D graphics library and API using wasm + webgpu"
 license = "MIT"
 repository = "https://github.com/Snowapril/three.rs"
 

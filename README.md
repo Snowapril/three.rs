@@ -1,5 +1,5 @@
 # three.rs
-Rust-based three.js implementation using wasm + webgpu
+Rust-based 3D graphics library and API using wasm + webgpu
 
 [![Build Status](https://github.com/Snowapril/three.rs/actions/workflows/ci.yaml/badge.svg)](https://github.com/Snowapril/three.rs/actions?query=workflow%3ACI)
 
